@@ -1,0 +1,80 @@
+
+body {
+  font-family: 'Archivo Narrow', sans-serif;
+  text-align: center;
+  background-color: #D8DBE2;
+}
+
+.welcome-message {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.image-Amina {
+  width: 300px;
+}
+
+.bio {
+  width: 400px;
+  margin: 0 auto;
+  font-size: 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.section-white {
+  background-color: #F9F5FF;
+  padding: 20px;
+  width: 900px;
+  margin:30px auto;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.favorites {
+  background-color: #F9F5FF;
+  display: block;
+  padding: 20px;
+  width: 900px;
+  margin:30px auto;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+#favorite-things-title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.images {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  object-position: left;
+  border-radius: 5px;
+  margin: 0px 40px 20px 40px;
+  background-color: #F9F5FF
+}
+
+.list-inline li {
+  display: inline;
+  padding: 0 25px;
+  font-size: 20px;
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.image-text-box {
+  width: 400px;
+  padding: 5px;
+}
+
